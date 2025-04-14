@@ -7,6 +7,9 @@ Dependencies:    none
 Summary:
     Project for learning and developing Python programming skills.
 """
-from lib.basics import pythonStrings
+# Import the basics file because why not yk
+import lib.basics
+# Import stuff from the strings file
+from lib.a_look_into_python_strings import pythonStrings
 
 pythonStrings()
