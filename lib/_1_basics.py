@@ -1,12 +1,11 @@
 """
 File:           Basics_py
-Author:         dadarkfather (119955277+dadarkfather@users.noreply.github.com)
+Author:         dadarkfather
 Project:        python
 Dependencies:   none
 
-Summary:
-    This file contains basic and fundamentals of python all wrapped and contained in functions for easy reading
-    and because I come from c++ so thats how I like to do things you know.
+This file contains basic and fundamentals of python all wrapped and contained in functions for easy reading
+and because I come from c++ so thats how I like to do things you know.
 """ 
 
 def theBasicStuff():

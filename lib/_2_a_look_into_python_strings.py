@@ -1,15 +1,14 @@
 '''
 File:		A look into python strings because I don't have anything better to do
-Author:		dadarkfather ()
+Author:		dadarkfather
 Project:	Python
 Dependencies:	none
 
-SUMMARY:
-	File contains all the basics about and on python strings and their manipulation. Nothing 
-	of significant note to be found here honestly.
+File contains all the basics about and on python strings and their manipulation. Nothing 
+of significant note to be found here honestly.
 
-	Delves deep from the very basics to slicing, modifiying, formatting, Escape Characters, string
-	Methods etc...
+Delves deep from the very basics to slicing, modifiying, formatting, Escape Characters, string
+Methods etc...
 '''
 
 # I honestly do not know what this import is for tbh?? Check main for explaination
