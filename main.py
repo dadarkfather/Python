@@ -13,7 +13,9 @@ import lib._3_booleans # Import the boolean file
 from lib._2_a_look_into_python_strings import pythonStrings # Import stuff from the strings file
 import lib._4_operators # A look into the foundations of python operators and stuff
 import lib._5_the_4_data_types_of_python as LPLists # A stroll in the neighborhood of python lists.. not a bad neighborhood if I do say so myself （*゜ー゜*）
-import lib._6_conditionals as conditionals
+import lib._6_conditionals as conditionals # Conditionals
+import lib._8_loopie_floopies as loopies # I think I'm starting to get a bit of a headache (TヘTo)
+import lib._9_functions as functions
 # main execution
 
-conditionals.conditionals()
+functions.arbitraryFunction("dadarkfather", "others")
